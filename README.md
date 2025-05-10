@@ -5,6 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Sarthak Koirala</h1>
 
+![Profile Views](https://komarev.com/ghpvc/?username=123sarthak&color=blue)
 
 ### Connect with me:
 
@@ -31,10 +32,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-<img src="https://api.iconify.design/logos:mysql.svg" width="40" height="40" alt="MySQL Icon" />
-
+  <img src="https://api.iconify.design/logos:mysql.svg" width="40" height="40" alt="MySQL Icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
 </p>
+
+
 
 ---
 
