@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sarthak Koirala</h1>
-<h3 align="center">A passionate full-stack developer from Nepal</h3>
+
 
 ### Connect with me:
 
